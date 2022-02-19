@@ -15,7 +15,6 @@ Currently I am a student at <a href="https://www.betrybe.com">Trybe</a>, a schoo
 ##
 
 <div>
-  <a href="https://github.com/luacomacento">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luacomacento&layout=compact&langs_count=7&theme=dracula"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=luacomacento&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
