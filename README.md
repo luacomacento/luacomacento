@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on **React.js and/or Node.js projects**
 
-- 👨‍💻 All of my projects are available at [https://luaoctaviano.dev](luaoctaviano.dev)
+- 👨‍💻 All of my projects are available at [luaoctaviano.dev](https://luaoctaviano.dev)
 
 - 📫 How to reach me **luaoctaviano@proton.me**
 
